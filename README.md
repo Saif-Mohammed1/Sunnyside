@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [my solution ](https://github.com/Saif-Mohammed1/Sunnyside)
+- Live Site URL: [watch ](https://saif-mohammed1.github.io/Sunnyside/Index.html)
 
 ### Built with
 
