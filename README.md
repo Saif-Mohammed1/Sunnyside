@@ -9,7 +9,7 @@
 ### Links
 
 - Solution URL: [my solution ](https://github.com/Saif-Mohammed1/Sunnyside)
-- Live Site URL: [watch ](https://saif-mohammed1.github.io/Sunnyside/Index.html)
+- Live Site URL: [watch ](https://saif-mohammed1.github.io/Sunnyside/)
 
 ### Built with
 
